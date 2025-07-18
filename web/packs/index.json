@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "soederpack.json"
+  ],
+  "homeserver_url": "https://matrix.fs.cs.hm.edu"
+}
